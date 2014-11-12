@@ -10,6 +10,10 @@ body {
 }
 
 .done {
+    color: #999;
+}
+
+.doneText {
     text-decoration: line-through;
     color: #999;
 }
